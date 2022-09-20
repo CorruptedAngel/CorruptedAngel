@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CorruptedAngel
+- 👀 I’m interested in learning how to use varying kinds of languages
+- 🌱 I’m currently learning Rust and/or C++
+- 💞️ I’m looking to collaborate on nothing atm
+- 📫 How to reach me: Melancholy Cloud#8300 (Discord)
